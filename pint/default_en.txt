@@ -306,6 +306,7 @@ bar = 1e5 * pascal
 technical_atmosphere = kilogram * g_0 / centimeter ** 2 = at
 torr = atm / 760
 pound_force_per_square_inch = force_pound / inch ** 2 = psi
+pound_force_per_square_foot = force_pound / foot ** 2 = psf
 kip_per_square_inch = kip / inch ** 2 = ksi
 millimeter_Hg = millimeter * Hg * g_0 = mmHg = mm_Hg = millimeter_Hg_0C
 centimeter_Hg = centimeter * Hg * g_0 = cmHg = cm_Hg = centimeter_Hg_0C
